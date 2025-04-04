@@ -7,7 +7,7 @@ A full-fledged end-to-end SQL & Power BI project using real commercial data from
 ## 📊 Project Overview
 
 This project analyzes over 100,000 orders made between 2016–2018 across multiple marketplaces in Brazil. It involves:
-- Data import via Python & SQL `INFILE`
+- Data import via Python & SQL INFILE
 - Data cleaning & validation
 - SQL-based analytics and optimization
 - Power BI dashboards for visualization
@@ -25,7 +25,7 @@ Source: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/da
 ## ⚙️ Steps Performed
 
 ### 1. Data Import Methods
-- Connected MySQL to Python via `pymysql` for data import
+- Connected MySQL to Python via python mysql connector for data import
 - Used `LOAD DATA INFILE` for faster ingestion in SQL
 
 ### 2. Data Cleaning & Validation
@@ -37,33 +37,33 @@ Source: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/da
 
 ## 📈 Analysis Breakdown
 
-### 🧮 Basic Metrics
+### 🧮 3. Basic Metrics
 - Total Customers, Orders, Product Categories
 - Revenue, AOV, Items per Order, Largest Order
 
-### 🧑‍🤝‍🧑 Customer Behavior
+### 🧑‍🤝‍🧑 4. Customer Behavior Analysis
 - Top spenders, Repeat vs One-time Customers
 - Retention Rate, Preferred Payment Methods
 - Top Locations, High-Value Customers
 
-### 💸 Sales & Revenue
+### 💸 5. Sales & Revenue Analysis
 - Monthly Revenue Trends
 - Top Categories & Products
 - Profitability by Category
 
-### 🚚 Delivery & Reviews
+### 🚚 6. Delivery & Reviews Analysis
 - Avg Delivery Time, Late Deliveries
 - Review Score Distribution
 - Correlation: Delivery vs Reviews
 
-### 🛍️ Seller Performance
+### 🛍️ 7. Seller Performance Analysis
 - Top Sellers by Revenue
 - Review Score Leaders
 - High-Volume Sellers & Avg Delay
 
 ---
 
-## ⚡ Optimization Techniques
+## ⚡ 8. Optimization Techniques
 - Created **Indexes** for faster joins
 - Designed **Views** for reusable logic
 - Used **Stored Procedures** & **User-Defined Functions** for automation
@@ -79,6 +79,7 @@ Source: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/da
 4. Delivery & Reviews
 5. Seller Performance
 
+## Dashboard Preview:
 ![Dashboard Preview](Dashboard_snapshot.PNG)
 
 ---
@@ -88,14 +89,13 @@ Source: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/da
 - Python (for data ingestion)
 - Power BI (Visualization)
 - Excel (Data sampling)
-- GitHub (Version Control)
 
 ---
 
 ## 🧠 Learning Outcomes
 - Advanced SQL querying & optimization
 - Data modeling & ETL skills
-- Business insight generation
+- Business insights generation
 - Dashboard storytelling using Power BI
 
 ---
@@ -108,7 +108,7 @@ This project is open-source under the [MIT License](LICENSE).
 ## 👤 About the Author
 
 **[Nikitha]**  
-📫 Connect on [LinkedIn]([https://www.linkedin.com/in/nikitha-chowdary-undavalli-9b783a221/])
+📫 Connect on [LinkedIn](https://www.linkedin.com/in/nikitha-chowdary-undavalli-9b783a221/)
 📧 [Email](mailto:nikithachowdaryundavalli@gmail.com)  
 
 ---
