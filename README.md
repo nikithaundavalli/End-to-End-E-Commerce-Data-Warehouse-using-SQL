@@ -79,7 +79,7 @@ Source: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/da
 4. Delivery & Reviews
 5. Seller Performance
 
-![Dashboard Preview]([Dashboard_snapshot.PNG])
+![Dashboard Preview](Dashboard_snapshot.PNG)
 
 ---
 
