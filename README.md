@@ -100,11 +100,6 @@ Source: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/da
 
 ---
 
-## 📜 License
-This project is open-source under the [MIT License](LICENSE).
-
----
-
 ## 👤 About the Author
 
 **Nikitha**  
@@ -115,4 +110,9 @@ This project is open-source under the [MIT License](LICENSE).
 
 ## 🙌 Let's Connect!
 Feel free to reach out if you have questions or want to collaborate!
+
+---
+
+## 📜 License
+This project is open-source under the [MIT License](LICENSE).
 
