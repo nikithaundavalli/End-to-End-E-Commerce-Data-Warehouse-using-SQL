@@ -16,7 +16,7 @@ This project analyzes over 100,000 orders made between 2016–2018 across multip
 
 ## 🧱 Dataset Schema
 
-![Schema Diagram](C:\Users\Mohanrao\OneDrive\Desktop\SQL_Project\Schema_design.png)
+![Schema Diagram](https://drive.google.com/file/d/1qeaGqtakveJ_qqmWWrJZuF3oLKDwsBLu/view?usp=sharing)
 
 Source: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
@@ -79,7 +79,7 @@ Source: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/da
 4. Delivery & Reviews
 5. Seller Performance
 
-![Dashboard Preview](C:\Users\Mohanrao\OneDrive\Desktop\SQL_Project\Dashboard_snapshot.png)
+![Dashboard Preview]([https://drive.google.com/file/d/1xxTKez_Rlckim0wVxth-xMA5W9hMos10/view?usp=sharing])
 
 ---
 
@@ -111,6 +111,7 @@ This project is open-source under the [MIT License](LICENSE).
 📫 Connect on [LinkedIn]([https://www.linkedin.com/in/nikitha-chowdary-undavalli-9b783a221/])
 📧 [Email](mailto:nikithachowdaryundavalli@gmail.com)  
 
+---
 
 ## 🙌 Let's Connect!
 Feel free to reach out if you have questions or want to collaborate!
