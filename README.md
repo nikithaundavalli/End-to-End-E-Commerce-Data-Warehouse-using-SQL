@@ -14,7 +14,7 @@ This project analyzes over 100,000 orders made between 2016–2018 across multip
 
 ---
 
-## 🧱 Dataset Schema
+## 🧱 Database Schema
 
 ![Schema Diagram](Shema_design.PNG)
 
@@ -107,7 +107,7 @@ This project is open-source under the [MIT License](LICENSE).
 
 ## 👤 About the Author
 
-**[Nikitha]**  
+**Nikitha**  
 📫 Connect on [LinkedIn](https://www.linkedin.com/in/nikitha-chowdary-undavalli-9b783a221/)
 📧 [Email](mailto:nikithachowdaryundavalli@gmail.com)  
 
