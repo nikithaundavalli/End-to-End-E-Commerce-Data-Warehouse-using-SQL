@@ -16,7 +16,7 @@ This project analyzes over 100,000 orders made between 2016–2018 across multip
 
 ## 🧱 Dataset Schema
 
-![Schema Diagram](https://drive.google.com/file/d/1qeaGqtakveJ_qqmWWrJZuF3oLKDwsBLu/view?usp=sharing)
+![Schema Diagram](Shema_design.PNG)
 
 Source: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
